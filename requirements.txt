@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+plotly
+sqlite3
+uuid
+datetime
+json
+hashlib
+base64
+io
+csv
+fpdf
+time
+random
